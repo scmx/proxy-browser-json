@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "ESNext",
+    "outDir": "./dist-server",
+    "rootDir": "./server",
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "moduleResolution": "node"
+  },
+  "exclude": ["src"]
+}
